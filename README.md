@@ -24,8 +24,14 @@
 | Nomes | DevTeam |
 |:----:|:-------:|
 | Agatha Nara|<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEieL2EMiXpFw/profile-displayphoto-shrink_200_200/0/1631643399594?e=1637798400&v=beta&t=fnyYc4UdaXpsGPyIfZFRzbWT9w08MvI4Hg6QUau60KQ" width="60%">|
+<a href="https://www.linkedin.com/in/gthlbrc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 | Isaias Rodrigues| <img src="https://avatars.githubusercontent.com/u/49243663?v=4" width="60%">|
+<a href="https://www.linkedin.com/in/isaiasz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 |Jaqueline Ferreira| <img src="https://avatars.githubusercontent.com/u/82923237?v=4" width="60%">|
+<a href="https://www.linkedin.com/in/jaqueline-ferreira-484403210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 | Mayara Bueno | <img src="https://avatars.githubusercontent.com/u/87502893?v=4" width="60%">|
+<a href="https://www.linkedin.com/in/mayara-bueno-b9bb55212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 | Rodrigo Silva  | <img src="https://avatars.githubusercontent.com/u/88196625?v=4" width="60%">|
+<a href="https://www.linkedin.com/in/rodrigo-araujoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 |  Vitor Brandão| <img src="https://avatars.githubusercontent.com/u/87865243?v=4" width="60%">|
+<a href="https://www.linkedin.com/in/vitorbrandaosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
