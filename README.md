@@ -3,6 +3,10 @@
 #   ♻ Climatika-Projeto-Integrador ♻
 
   Um e-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos e parcerias com pequenos empreendedores. O projeto foi desenvolvido de maneira ágil, utilizando Java, Springboot, Angular, PostgreSQL, Bootstrap.
+  
+<img style="max-width: 250px; max-height: 250px;"
+                                src="https://cdn.discordapp.com/attachments/867051597850869770/897818975919034449/logo.png"
+                                alt="">
  
  ##  👩‍💻 Tecnologias Utilizadas no Projeto : 👨‍💻
  | <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />|
