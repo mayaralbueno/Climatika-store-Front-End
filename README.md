@@ -4,6 +4,7 @@
 
   Um e-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos e parcerias com pequenos empreendedores. O projeto foi desenvolvido de maneira ágil, utilizando Java, Springboot, Angular, PostgreSQL, Bootstrap.
   
+  
  <p align="center">
 <img src="https://cdn.discordapp.com/attachments/867051597850869770/897818975919034449/logo.png" style="width: 65%;">
 </p>
