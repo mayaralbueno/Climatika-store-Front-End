@@ -1,6 +1,6 @@
 # Climatika-store-Front-End
 
-#    🌱 Climatika-Projeto-Integrador ♻
+#   ♻ Climatika-Projeto-Integrador ♻
 
   Um e-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos e parcerias com pequenos empreendedores. O projeto foi desenvolvido de maneira ágil, utilizando Java, Springboot, Angular, PostgreSQL, Bootstrap.
  
