@@ -22,13 +22,11 @@
     <td align="center">
     <img  src="https://cdn.discordapp.com/attachments/867051597850869770/897847599216853063/Logotipo_ecous_1.png" style="width: 100px; border-radius: 5%">
     <h4><b>Ecous</b></h4>
-      <p class="descricao">Acreditamos que outro viver é possível.Num mundo onde o dar e receber sejam recíprocos</p>
+      
     <td align="center">
     <img  src="https://i.imgur.com/thqqpui.png" style="width: 100px; border-radius: 5%">
     <h4><b>Gaia Ecommerce</b></h4>
-      <p class="descricao">
-                            Um projeto de e-commerce com a ideia de trazer a dinâmica da ecologia para o cliente.
-                        </p>
+     
    <td align="center">
     <img  src="https://i.imgur.com/jkapNNHh.jpg" style="width: 100px; border-radius: 5%">
     <h4><b>Generation</b></h4>
