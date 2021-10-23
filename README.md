@@ -16,32 +16,25 @@
     <td align="center">
     <img  src="https://i.imgur.com/zLKkg0Y.png" style="width: 100px; border-radius: 5%">
     <h4><b>Action for Life</b></h4>
-   
     <td align="center">
     <img  src="https://cdn.discordapp.com/attachments/867051597850869770/897847599216853063/Logotipo_ecous_1.png" style="width: 100px; border-radius: 5%">
     <h4><b>Ecous</b></h4>
-      
     <td align="center">
     <img  src="https://i.imgur.com/thqqpui.png" style="width: 100px; border-radius: 5%">
     <h4><b>Gaia Ecommerce</b></h4>
-     
    <td align="center">
     <img  src="https://i.imgur.com/jkapNNHh.jpg" style="width: 100px; border-radius: 5%">
     <h4><b>Generation</b></h4>
-     
     <td align="center">
     <img  src="https://cdn.discordapp.com/attachments/867051597850869770/898738255468560474/logo_gaia.png" style="width: 100px; border-radius: 5%">
     <h4><b>Gaia</b></h4>
-  
     <td align="center">
     <img  src="https://i.imgur.com/4c5NzcX.png" style="width: 100px; border-radius: 5%">
     <h4><b>Eco.Book</b></h4>
-     
        <td align="center">
          <img  src="https://cdn.discordapp.com/attachments/867051597850869770/897835109238050868/logo.png" style="width: 100px; border-radius: 5%">
     <h4><b>Baependi</b></h4>
-             
-
+         
   </tr>
 </table>
 
@@ -153,5 +146,6 @@
       <a href="https://github.com/VitorBrandaoS" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   </tr>
 </table>
+
 
 
