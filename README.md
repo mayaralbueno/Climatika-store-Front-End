@@ -16,12 +16,20 @@
     <td align="center">
     <img  src="https://i.imgur.com/zLKkg0Y.png" style="width: 100px; border-radius: 5%">
     <h4><b>Action for Life</b></h4>
+      <p class="descricao">
+                            Nossos produtos são naturais ou de materiais recicláveis. Nossas iniciativas foram criadas para combater as mudanças climáticas e consequentemente reduzir a desigualdade dentro dos países e entre eles para alcançar e sustentar o crescimento da renda da
+                            população mais pobre do Brasil.
+                        </p>
     <td align="center">
     <img  src="https://cdn.discordapp.com/attachments/867051597850869770/897847599216853063/Logotipo_ecous_1.png" style="width: 100px; border-radius: 5%">
     <h4><b>Ecous</b></h4>
+      <p class="descricao">Acreditamos que outro viver é possível. Num viver sustentável. Num mundo onde o dar e receber sejam recíprocos. Acreditamos em cuidar de nós e de tudo à nossa volta. Acreditamos na união entre a natureza e os seres humanos.</p>
     <td align="center">
     <img  src="https://i.imgur.com/thqqpui.png" style="width: 100px; border-radius: 5%">
     <h4><b>Gaia Ecommerce</b></h4>
+      <p class="descricao">
+                            Um projeto de e-commerce com a ideia de trazer a dinâmica da ecologia para o cliente, e também oferecer créditos bônus para compras com nossos parceiros.
+                        </p>
    <td align="center">
     <img  src="https://i.imgur.com/jkapNNHh.jpg" style="width: 100px; border-radius: 5%">
     <h4><b>Generation</b></h4>
@@ -31,6 +39,7 @@
     <td align="center">
     <img  src="https://i.imgur.com/4c5NzcX.png" style="width: 100px; border-radius: 5%">
     <h4><b>Eco.Book</b></h4>
+      <p class="descricao">A eco.Book acredita que um dos caminhos para o desenvolvimento sustentável é a educação. Incentivamos a leitura com consumo consciente: adquirir conhecimentos com o mínimo possível de impacto na natureza.</p>
        <td align="center">
          <img  src="https://cdn.discordapp.com/attachments/867051597850869770/897835109238050868/logo.png" style="width: 100px; border-radius: 5%">
     <h4><b>Baependi</b></h4>
