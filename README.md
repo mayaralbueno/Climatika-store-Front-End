@@ -16,9 +16,7 @@
     <td align="center">
     <img  src="https://i.imgur.com/zLKkg0Y.png" style="width: 100px; border-radius: 5%">
     <h4><b>Action for Life</b></h4>
-      <p class="descricao">
-                            Nossos produtos são naturais ou de materiais recicláveis.
-                        </p>
+   
     <td align="center">
     <img  src="https://cdn.discordapp.com/attachments/867051597850869770/897847599216853063/Logotipo_ecous_1.png" style="width: 100px; border-radius: 5%">
     <h4><b>Ecous</b></h4>
