@@ -31,16 +31,16 @@ O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um
   <table align="center">
   <tr>
     <td align="center">
-    <img  src="https://i.imgur.com/zLKkg0Y.png" style="width: 100px; border-radius: 5%">
+    <img  src="https://media.giphy.com/media/hSbk0M4YCb4iKPgIVb/giphy.gif" style="width: 100px; border-radius: 5%">
     <h4><b>Action for Life</b></h4>
     <td align="center">
-    <img  src="https://cdn.discordapp.com/attachments/867051597850869770/897847599216853063/Logotipo_ecous_1.png" style="width: 100px; border-radius: 5%">
+    <img  src="https://media.giphy.com/media/wC2RdEkg4hvgGjY2KL/giphy.gif" style="width: 100px; border-radius: 5%">
     <h4><b>Ecous</b></h4>
     <td align="center">
     <img  src="https://media.giphy.com/media/qNDXFikB8ql8edMTao/giphy.gif" style="width: 100px; border-radius: 5%">
     <h4><b>Gaia Ecommerce</b></h4>
    <td align="center">
-    <img  src="https://i.imgur.com/jkapNNHh.jpg" style="width: 100px; border-radius: 5%">
+    <img  src="https://media.giphy.com/media/0lazmV9C3BysehSabb/giphy.gif" style="width: 100px; border-radius: 5%">
     <h4><b>Generation</b></h4>
     <td align="center">
     <img  src="https://cdn.discordapp.com/attachments/867051597850869770/898738255468560474/logo_gaia.png" style="width: 100px; border-radius: 5%">
