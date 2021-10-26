@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/mARaEcPCTBntTioIQh/giphy.gif" style="width: 65%;">
 </p>
 
-  Um e-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos e parcerias com pequenos empreendedores. O projeto foi desenvolvido de maneira ágil, utilizando Java, Springboot, Angular, PostgreSQL, Bootstrap.
+ ♻ Um e-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos e parcerias com pequenos empreendedores. O projeto foi desenvolvido de maneira ágil, utilizando Java, Springboot, Angular, PostgreSQL, Bootstrap.
    
    
 
@@ -18,10 +18,10 @@
   <img  src="https://media.giphy.com/media/KE9hqwEYKh2Pirztyu/giphy.gif" width="400">
  
 </p>
-O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um dos 17 Objetivos de Desenvolvimento
+🌏  O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um dos 17 Objetivos de Desenvolvimento
         Sustentável estabelecidos pelas Nações Unidas em 2015. A redação oficial é “Tomar medidas urgentes para
         combater as mudanças climáticas e seus impactos”. A Meta a serem alcançadas até 2030. Alguns objetivos a ser
-        atingidos pela ODS 13.
+        atingidos pela ODS 13. 🍃
 
 
 
@@ -32,24 +32,31 @@ O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um
     <td align="center">
     <img  src="https://media.giphy.com/media/hSbk0M4YCb4iKPgIVb/giphy.gif" style="width: 100px; border-radius: 50%">
     <h4><b>Action for Life</b></h4>
+      <h5><b> Nossos produtos são naturais ou de materiais recicláveis. </b><h5>
     <td align="center">
     <img  src="https://media.giphy.com/media/wC2RdEkg4hvgGjY2KL/giphy.gif" style="width: 100px; border-radius: 50%">
-    <h4><b>Ecous</b></h4>
+    <h4><b>Ecous</b> </h4>
+      <h5><b> A eco.Book acredita que um dos caminhos para o desenvolvimento sustentável. </b><h5>
     <td align="center">
     <img  src="https://media.giphy.com/media/qNDXFikB8ql8edMTao/giphy.gif" style="width: 100px; border-radius: 50%">
     <h4><b>Gaia Ecommerce</b></h4>
+      <h5><b>  Um projeto de e-commerce com a ideia de trazer a dinâmica da ecologia </b><h5>
    <td align="center">
     <img  src="https://media.giphy.com/media/0lazmV9C3BysehSabb/giphy.gif" style="width: 100px; border-radius: 50%">
-    <h4><b>Generation</b></h4>
+    <h4><b>Generation</b> </h4>
+      <h5><b>  Nossa missão é apoiar jovens a construírem carreiras sustentáveis </b><h5>
     <td align="center">
     <img  src="https://media.giphy.com/media/xE0gPXOKyBhhPwibS1/giphy.gif" style="width: 100px; border-radius: 50%">
-    <h4><b>Gaia</b></h4>
+    <h4><b>Gaia</b>  </h4>
+      <h5><b>  acredita que um dos caminhos para o desenvolvimento sustentável </b><h5>
     <td align="center">
     <img  src="https://media.giphy.com/media/5mckjYoNyvOb6mkhrB/giphy.gif" style="width: 100px; border-radius: 50%">
     <h4><b>Eco.Book</b></h4>
+         <h5><b>   A eco.Book acredita que um dos caminhos para o desenvolvimento sustentável é a educação.</b><h5>
        <td align="center">
          <img  src="https://media.giphy.com/media/QvJWqx9RRN4zUq9e75/giphy.gif" style="width: 100px; border-radius: 50%">
-    <h4><b>Baependi</b></h4>
+    <h4><b>Baependi</b>  </h4>
+         <h5><b>  acredita que um dos caminhos para o desenvolvimento sustentável.</b><h5>
          
          
   </tr>
