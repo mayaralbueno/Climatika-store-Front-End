@@ -72,7 +72,7 @@
 <h1  align="center"> 🔧 Ferramentas 🛠  </H1>
  
 
- | <img    src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit" > | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee">  
+ | <img  src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit" > | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee">  
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> | <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white">
   |<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> | <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> |
