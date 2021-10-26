@@ -22,7 +22,7 @@
 O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um dos 17 Objetivos de Desenvolvimento
         Sustentável estabelecidos pelas Nações Unidas em 2015. A redação oficial é “Tomar medidas urgentes para
         combater as mudanças climáticas e seus impactos”. A Meta a serem alcançadas até 2030. Alguns objetivos a ser
-        atingidos pela ODS 13
+        atingidos pela ODS 13.
 
 
 
