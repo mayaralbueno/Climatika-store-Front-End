@@ -37,7 +37,7 @@ O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um
     <img  src="https://cdn.discordapp.com/attachments/867051597850869770/897847599216853063/Logotipo_ecous_1.png" style="width: 100px; border-radius: 5%">
     <h4><b>Ecous</b></h4>
     <td align="center">
-    <img  src="https://i.imgur.com/thqqpui.png" style="width: 100px; border-radius: 5%">
+    <img  src="https://media.giphy.com/media/qNDXFikB8ql8edMTao/giphy.gif" style="width: 100px; border-radius: 5%">
     <h4><b>Gaia Ecommerce</b></h4>
    <td align="center">
     <img  src="https://i.imgur.com/jkapNNHh.jpg" style="width: 100px; border-radius: 5%">
