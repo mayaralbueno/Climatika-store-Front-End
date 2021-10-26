@@ -5,7 +5,7 @@
 
   
  <p align="center">
-<img src="https://cdn.discordapp.com/attachments/897218563671212042/899685338144993340/logoescura.png" style="width: 65%;">
+<img src="https://media.giphy.com/media/mARaEcPCTBntTioIQh/giphy.gif" style="width: 65%;">
 </p>
 
   Um e-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos e parcerias com pequenos empreendedores. O projeto foi desenvolvido de maneira ágil, utilizando Java, Springboot, Angular, PostgreSQL, Bootstrap.
@@ -77,6 +77,12 @@ O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um
 <br>
 
 ## 🚧  Em Construção por:  🚧 
+  
+  
+    
+ <p align="center">
+<img src="https://media.giphy.com/media/lQDdDwdZpfYRn1MsJy/giphy.gif" style="width: 65%;">
+</p>
 
 <br>
 <br>
