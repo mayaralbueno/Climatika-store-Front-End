@@ -12,7 +12,6 @@
    
    
 
-
 <h1  align="center"> ODS 13 🌏 </H1>
 <p align="center">
 
@@ -61,7 +60,9 @@ O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um
 
 
 <br>
-<h2 align="center" 🔧 Ferramentas 🛠 :<h2>
+
+
+<h1  align="center"> 🔧 Ferramentas 🛠  </H1>
  
  
  | <img    src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit" > | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee">  
@@ -86,7 +87,7 @@ O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um
   
     
  <p align="center">
-<img src="https://media.giphy.com/media/lQDdDwdZpfYRn1MsJy/giphy.gif" style="width: 65%;">
+<img src="https://media.giphy.com/media/lQDdDwdZpfYRn1MsJy/giphy.gif" style="width: 50%;">
 </p>
 
 <br>
