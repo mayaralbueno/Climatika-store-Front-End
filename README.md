@@ -2,12 +2,29 @@
 
 #   ♻ Climatika-Projeto-Integrador ♻
 
-  Um e-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos e parcerias com pequenos empreendedores. O projeto foi desenvolvido de maneira ágil, utilizando Java, Springboot, Angular, PostgreSQL, Bootstrap.
-  
+
   
  <p align="center">
-<img src="https://cdn.discordapp.com/attachments/867051597850869770/897818975919034449/logo.png" style="width: 65%;">
+<img src="https://cdn.discordapp.com/attachments/897218563671212042/899685338144993340/logoescura.png" style="width: 65%;">
 </p>
+
+  Um e-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos e parcerias com pequenos empreendedores. O projeto foi desenvolvido de maneira ágil, utilizando Java, Springboot, Angular, PostgreSQL, Bootstrap.
+   
+   
+
+
+<h1> ODS 13 🌏 </H1>
+<p align="center">
+
+  <img  src="https://media.giphy.com/media/KE9hqwEYKh2Pirztyu/giphy.gif" width="400">
+ 
+</p>
+O Objetivo de Desenvolvimento Sustentável 13 é sobre ação climática e é um dos 17 Objetivos de Desenvolvimento
+        Sustentável estabelecidos pelas Nações Unidas em 2015. A redação oficial é “Tomar medidas urgentes para
+        combater as mudanças climáticas e seus impactos”. A Meta a serem alcançadas até 2030. Alguns objetivos a ser
+        atingidos pela ODS 13
+
+
 
 <h2> ♻ Nossos parceiros 🌱</h2>
   
@@ -27,9 +44,9 @@
     <h4><b>Generation</b></h4>
     <td align="center">
     <img  src="https://cdn.discordapp.com/attachments/867051597850869770/898738255468560474/logo_gaia.png" style="width: 100px; border-radius: 5%">
-    <h4><b>Gaia</b></h4>
+    <h4><b>Mercado sem lixo</b></h4>
     <td align="center">
-    <img  src="https://i.imgur.com/4c5NzcX.png" style="width: 100px; border-radius: 5%">
+    <img  src="https://i.imgur.com/QA7fnpj.jpg" style="width: 100px; border-radius: 5%">
     <h4><b>Eco.Book</b></h4>
        <td align="center">
          <img  src="https://cdn.discordapp.com/attachments/867051597850869770/897835109238050868/logo.png" style="width: 100px; border-radius: 5%">
@@ -42,59 +59,13 @@
 
 <h2>👨‍💻Tecnologias  utilizadas :<h2>
 <br>
-<table align="center" style=" width: 60%" >
-  <tr>
-    <td align="center">
-    <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <td align="center">
-    <img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <td align="center">
-    <img  src="https://img.shields.io/badge/Java-5B4638?style=for-the-badge&logo=java&logoColor=white">
-    <td align="center">
-   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-   <td align="center">
-     <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-     
 
-  <tr>
-   <td align="center">
-   <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Visual_Studio-FFFF00?style=for-the-badge&logo=visual%20studio&logoColor=black">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    <td align="center">
-   <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- </tr>
- <tr>
-   <td align="center">
-   <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whitee">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-   <td align="center">
-   <img  src=" https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-     <img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-   <td align="center">
-     
-     
-  </tr>
-</table>
-
-<br>
+ 
+ | <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" >  | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> | <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white">
+  |<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> | <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> |
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> | <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> | <img src="https://img.shields.io/badge/TypeScript-007
 
 
 
